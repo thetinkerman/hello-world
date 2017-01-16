@@ -9,6 +9,7 @@ Tinkerman here.  I like to figure out how things work, and do so using my person
 3. Guess at the expected behavior
 4. Do the input or action
 5. Make a note of the outcome
+
 [Repeat]
 
 When I get the curiosity bug real bad, I have a habit of rapidly figuring out how a thing works.  Unfortunately, this can come at the expense of clear documentation (and sleep), but it's something I'm working on by practicing my writing.  I often get to the end of understanding something, remember all the steps to get there, but can't easily answer specific questions about the journey.
